@@ -1,5 +1,5 @@
 {
-  "name": "di-container-custom",
+  "name": "ts-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,9 +19,5 @@
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.11.1",
     "typescript": "^4.9.5"
-  },
-  "dependencies": {
-    "reflect-metadata": "^0.1.13",
-    "ts-md5": "^1.3.1"
   }
 }
